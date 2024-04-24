@@ -1,0 +1,370 @@
+[
+  {
+    "nome": "ANGRA DOS REIS",
+    "codigo_ibge": "3300100"
+  },
+  {
+    "nome": "APERIBÉ",
+    "codigo_ibge": "3300159"
+  },
+  {
+    "nome": "ARARUAMA",
+    "codigo_ibge": "3300209"
+  },
+  {
+    "nome": "AREAL",
+    "codigo_ibge": "3300225"
+  },
+  {
+    "nome": "ARMAÇÃO DOS BÚZIOS",
+    "codigo_ibge": "3300233"
+  },
+  {
+    "nome": "ARRAIAL DO CABO",
+    "codigo_ibge": "3300258"
+  },
+  {
+    "nome": "BARRA DO PIRAÍ",
+    "codigo_ibge": "3300308"
+  },
+  {
+    "nome": "BARRA MANSA",
+    "codigo_ibge": "3300407"
+  },
+  {
+    "nome": "BELFORD ROXO",
+    "codigo_ibge": "3300456"
+  },
+  {
+    "nome": "BOM JARDIM",
+    "codigo_ibge": "3300506"
+  },
+  {
+    "nome": "BOM JESUS DO ITABAPOANA",
+    "codigo_ibge": "3300605"
+  },
+  {
+    "nome": "CABO FRIO",
+    "codigo_ibge": "3300704"
+  },
+  {
+    "nome": "CACHOEIRAS DE MACACU",
+    "codigo_ibge": "3300803"
+  },
+  {
+    "nome": "CAMBUCI",
+    "codigo_ibge": "3300902"
+  },
+  {
+    "nome": "CARAPEBUS",
+    "codigo_ibge": "3300936"
+  },
+  {
+    "nome": "COMENDADOR LEVY GASPARIAN",
+    "codigo_ibge": "3300951"
+  },
+  {
+    "nome": "CAMPOS DOS GOYTACAZES",
+    "codigo_ibge": "3301009"
+  },
+  {
+    "nome": "CANTAGALO",
+    "codigo_ibge": "3301108"
+  },
+  {
+    "nome": "CARDOSO MOREIRA",
+    "codigo_ibge": "3301157"
+  },
+  {
+    "nome": "CARMO",
+    "codigo_ibge": "3301207"
+  },
+  {
+    "nome": "CASIMIRO DE ABREU",
+    "codigo_ibge": "3301306"
+  },
+  {
+    "nome": "CONCEIÇÃO DE MACABU",
+    "codigo_ibge": "3301405"
+  },
+  {
+    "nome": "CORDEIRO",
+    "codigo_ibge": "3301504"
+  },
+  {
+    "nome": "DUAS BARRAS",
+    "codigo_ibge": "3301603"
+  },
+  {
+    "nome": "DUQUE DE CAXIAS",
+    "codigo_ibge": "3301702"
+  },
+  {
+    "nome": "ENGENHEIRO PAULO DE FRONTIN",
+    "codigo_ibge": "3301801"
+  },
+  {
+    "nome": "GUAPIMIRIM",
+    "codigo_ibge": "3301850"
+  },
+  {
+    "nome": "IGUABA GRANDE",
+    "codigo_ibge": "3301876"
+  },
+  {
+    "nome": "ITABORAÍ",
+    "codigo_ibge": "3301900"
+  },
+  {
+    "nome": "ITAGUAÍ",
+    "codigo_ibge": "3302007"
+  },
+  {
+    "nome": "ITALVA",
+    "codigo_ibge": "3302056"
+  },
+  {
+    "nome": "ITAOCARA",
+    "codigo_ibge": "3302106"
+  },
+  {
+    "nome": "ITAPERUNA",
+    "codigo_ibge": "3302205"
+  },
+  {
+    "nome": "ITATIAIA",
+    "codigo_ibge": "3302254"
+  },
+  {
+    "nome": "JAPERI",
+    "codigo_ibge": "3302270"
+  },
+  {
+    "nome": "LAJE DO MURIAÉ",
+    "codigo_ibge": "3302304"
+  },
+  {
+    "nome": "MACAÉ",
+    "codigo_ibge": "3302403"
+  },
+  {
+    "nome": "MACUCO",
+    "codigo_ibge": "3302452"
+  },
+  {
+    "nome": "MAGÉ",
+    "codigo_ibge": "3302502"
+  },
+  {
+    "nome": "MANGARATIBA",
+    "codigo_ibge": "3302601"
+  },
+  {
+    "nome": "MARICÁ",
+    "codigo_ibge": "3302700"
+  },
+  {
+    "nome": "MENDES",
+    "codigo_ibge": "3302809"
+  },
+  {
+    "nome": "MESQUITA",
+    "codigo_ibge": "3302858"
+  },
+  {
+    "nome": "MIGUEL PEREIRA",
+    "codigo_ibge": "3302908"
+  },
+  {
+    "nome": "MIRACEMA",
+    "codigo_ibge": "3303005"
+  },
+  {
+    "nome": "NATIVIDADE",
+    "codigo_ibge": "3303104"
+  },
+  {
+    "nome": "NILÓPOLIS",
+    "codigo_ibge": "3303203"
+  },
+  {
+    "nome": "NITERÓI",
+    "codigo_ibge": "3303302"
+  },
+  {
+    "nome": "NOVA FRIBURGO",
+    "codigo_ibge": "3303401"
+  },
+  {
+    "nome": "NOVA IGUAÇU",
+    "codigo_ibge": "3303500"
+  },
+  {
+    "nome": "PARACAMBI",
+    "codigo_ibge": "3303609"
+  },
+  {
+    "nome": "PARAÍBA DO SUL",
+    "codigo_ibge": "3303708"
+  },
+  {
+    "nome": "PARATY",
+    "codigo_ibge": "3303807"
+  },
+  {
+    "nome": "PATY DO ALFERES",
+    "codigo_ibge": "3303856"
+  },
+  {
+    "nome": "PETRÓPOLIS",
+    "codigo_ibge": "3303906"
+  },
+  {
+    "nome": "PINHEIRAL",
+    "codigo_ibge": "3303955"
+  },
+  {
+    "nome": "PIRAÍ",
+    "codigo_ibge": "3304003"
+  },
+  {
+    "nome": "PORCIÚNCULA",
+    "codigo_ibge": "3304102"
+  },
+  {
+    "nome": "PORTO REAL",
+    "codigo_ibge": "3304110"
+  },
+  {
+    "nome": "QUATIS",
+    "codigo_ibge": "3304128"
+  },
+  {
+    "nome": "QUEIMADOS",
+    "codigo_ibge": "3304144"
+  },
+  {
+    "nome": "QUISSAMÃ",
+    "codigo_ibge": "3304151"
+  },
+  {
+    "nome": "RESENDE",
+    "codigo_ibge": "3304201"
+  },
+  {
+    "nome": "RIO BONITO",
+    "codigo_ibge": "3304300"
+  },
+  {
+    "nome": "RIO CLARO",
+    "codigo_ibge": "3304409"
+  },
+  {
+    "nome": "RIO DAS FLORES",
+    "codigo_ibge": "3304508"
+  },
+  {
+    "nome": "RIO DAS OSTRAS",
+    "codigo_ibge": "3304524"
+  },
+  {
+    "nome": "RIO DE JANEIRO",
+    "codigo_ibge": "3304557"
+  },
+  {
+    "nome": "SANTA MARIA MADALENA",
+    "codigo_ibge": "3304607"
+  },
+  {
+    "nome": "SANTO ANTÔNIO DE PÁDUA",
+    "codigo_ibge": "3304706"
+  },
+  {
+    "nome": "SÃO FRANCISCO DE ITABAPOANA",
+    "codigo_ibge": "3304755"
+  },
+  {
+    "nome": "SÃO FIDÉLIS",
+    "codigo_ibge": "3304805"
+  },
+  {
+    "nome": "SÃO GONÇALO",
+    "codigo_ibge": "3304904"
+  },
+  {
+    "nome": "SÃO JOÃO DA BARRA",
+    "codigo_ibge": "3305000"
+  },
+  {
+    "nome": "SÃO JOÃO DE MERITI",
+    "codigo_ibge": "3305109"
+  },
+  {
+    "nome": "SÃO JOSÉ DE UBÁ",
+    "codigo_ibge": "3305133"
+  },
+  {
+    "nome": "SÃO JOSÉ DO VALE DO RIO PRETO",
+    "codigo_ibge": "3305158"
+  },
+  {
+    "nome": "SÃO PEDRO DA ALDEIA",
+    "codigo_ibge": "3305208"
+  },
+  {
+    "nome": "SÃO SEBASTIÃO DO ALTO",
+    "codigo_ibge": "3305307"
+  },
+  {
+    "nome": "SAPUCAIA",
+    "codigo_ibge": "3305406"
+  },
+  {
+    "nome": "SAQUAREMA",
+    "codigo_ibge": "3305505"
+  },
+  {
+    "nome": "SEROPÉDICA",
+    "codigo_ibge": "3305554"
+  },
+  {
+    "nome": "SILVA JARDIM",
+    "codigo_ibge": "3305604"
+  },
+  {
+    "nome": "SUMIDOURO",
+    "codigo_ibge": "3305703"
+  },
+  {
+    "nome": "TANGUÁ",
+    "codigo_ibge": "3305752"
+  },
+  {
+    "nome": "TERESÓPOLIS",
+    "codigo_ibge": "3305802"
+  },
+  {
+    "nome": "TRAJANO DE MORAES",
+    "codigo_ibge": "3305901"
+  },
+  {
+    "nome": "TRÊS RIOS",
+    "codigo_ibge": "3306008"
+  },
+  {
+    "nome": "VALENÇA",
+    "codigo_ibge": "3306107"
+  },
+  {
+    "nome": "VARRE-SAI",
+    "codigo_ibge": "3306156"
+  },
+  {
+    "nome": "VASSOURAS",
+    "codigo_ibge": "3306206"
+  },
+  {
+    "nome": "VOLTA REDONDA",
+    "codigo_ibge": "3306305"
+  }
+]
